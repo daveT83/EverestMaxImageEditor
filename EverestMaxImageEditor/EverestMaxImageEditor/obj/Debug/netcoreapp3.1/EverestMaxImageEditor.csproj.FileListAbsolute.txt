@@ -1,0 +1,15 @@
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\bin\Debug\netcoreapp3.1\EverestMaxImageEditor.exe
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\bin\Debug\netcoreapp3.1\EverestMaxImageEditor.deps.json
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\bin\Debug\netcoreapp3.1\EverestMaxImageEditor.runtimeconfig.json
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\bin\Debug\netcoreapp3.1\EverestMaxImageEditor.runtimeconfig.dev.json
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\bin\Debug\netcoreapp3.1\EverestMaxImageEditor.dll
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\bin\Debug\netcoreapp3.1\EverestMaxImageEditor.pdb
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.csprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.Form1.resources
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.csproj.GenerateResource.cache
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.AssemblyInfoInputs.cache
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.AssemblyInfo.cs
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.dll
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.pdb
+C:\Users\Gaming\source\repos\EverestMaxImageEditor\EverestMaxImageEditor\obj\Debug\netcoreapp3.1\EverestMaxImageEditor.genruntimeconfig.cache
