@@ -10,9 +10,9 @@ namespace EverestMaxImageEditor.Infrastructure
     public class RoundedButton : Button
     {
         //we can use this to modify the color of the border 
-        public Color BorderColor = Color.Transparent;
+        public Color BorderColor = Color.Black;
         //we can use this to modify the border size
-        public int BorderSize = 0;
+        public int BorderSize = 10;
         //to modify the corner radius
         public int CornerRadius = 10;
         public string ExportPath;
