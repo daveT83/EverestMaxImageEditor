@@ -10,9 +10,9 @@ namespace EverestMaxImageEditor.Infrastructure
     public class RoundedButton : Button
     {
         //we can use this to modify the color of the border 
-        public Color BorderColor = Color.Black;
+        public Color BorderColor = Color.Transparent;
         //we can use this to modify the border size
-        public int BorderSize = 10;
+        public int BorderSize = 0;
         //to modify the corner radius
         public int CornerRadius = 10;
         public string ExportPath;
@@ -55,6 +55,12 @@ namespace EverestMaxImageEditor.Infrastructure
         {
             // to draw the control using base OnPaint
             base.OnPaint(e);
+
+            if (IsMediaButton)
+            {
+                this.BorderColor = Color.Black;
+                this.BorderSize = 7;
+            }
 
             Pen DrawPen = new Pen(BorderColor);
             GraphicsPath gfxPath_mod = new GraphicsPath();
